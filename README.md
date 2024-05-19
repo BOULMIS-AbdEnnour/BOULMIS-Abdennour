@@ -6,7 +6,7 @@ I'm a chemical engineering student with a passion for applying data analysis and
 
 ##  About Me
 
-* Chemical Engineering Student ()
+* Chemical Engineering Student ()[école national Polytechnique](https://www.linkedin.com/school/ecole-nationale-polytechnique-enp---algeria/)
 * Aspiring Data Analyst ()
 * Enthusiastic about AI for Engineering Applications ()
 
@@ -20,7 +20,7 @@ I'm a chemical engineering student with a passion for applying data analysis and
 
 ##  Professional Experience
 
-* Data Analyst at [Optimal Solutions ENP] (https://www.linkedin.com/company/enp-optimal-solutions/mycompany/)
+* Data Analyst at [Optimal Solutions ENP](https://www.linkedin.com/company/enp-optimal-solutions/mycompany/)
     * Conducted market research and analyzed data to provide valuable insights for clients.
     * Supported data-driven decision-making for improved business outcomes.
 
