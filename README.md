@@ -12,15 +12,15 @@ I'm a chemical engineering student with a passion for applying data analysis and
 
 ##  Technical Skills
 
-* Programming: Python, SQL [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)][![SQL](https://img.shields.io/badge/SQL-latest-brightgreen.svg)]
-* Data Analysis: Excel, Power BI [![Excel](https://img.shields.io/badge/Microsoft_Excel-2019-blue.svg)][![Power BI](https://img.shields.io/badge/Power_BI-latest-orange.svg)]
-* Scientific Computing: MATLAB [![MATLAB](https://img.shields.io/badge/MATLAB-R2023a-blue.svg)]
+* **Programming:** Python, SQL [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)][![SQL](https://img.shields.io/badge/SQL-latest-brightgreen.svg)]
+* **Data Analysis:** Excel, Power BI [![Excel](https://img.shields.io/badge/Microsoft_Excel-2019-blue.svg)][![Power BI](https://img.shields.io/badge/Power_BI-latest-orange.svg)]
+* **Scientific Computing:** MATLAB [![MATLAB](https://img.shields.io/badge/MATLAB-R2023a-blue.svg)]
 * **Creative Design:** Adobe Photoshop, Illustrator [![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-CC-blue.svg)][![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-CC-blue.svg)]
 * **Video Editing:** Adobe Premiere Pro [![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-CC-blue.svg)]
 
 ##  Professional Experience
 
-* Data Analyst at [Optimal Solutions ENP] ()
+* Data Analyst at [Optimal Solutions ENP] (https://www.linkedin.com/company/enp-optimal-solutions/mycompany/)
     * Conducted market research and analyzed data to provide valuable insights for clients.
     * Supported data-driven decision-making for improved business outcomes.
 
