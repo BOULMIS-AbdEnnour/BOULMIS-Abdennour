@@ -2,7 +2,7 @@ Hi, I'm Boulmis Abdennour!
 
 I'm a chemical engineering student with a passion for applying data analysis and artificial intelligence to various engineering challenges. I'm currently pursuing the Google Data Analytics certificate to further enhance my skills.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=BOULMIS-Abdennour&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ##  About Me
 
